@@ -1,0 +1,17 @@
+{
+  "/_error": "pages/_error.js",
+  "/AboutUs": "pages/AboutUs.js",
+  "/AddFoodItem": "pages/AddFoodItem.js",
+  "/AddFoodPage": "pages/AddFoodPage.js",
+  "/FoodProviderDashboard": "pages/FoodProviderDashboard.js",
+  "/Customer": "pages/Customer.js",
+  "/FoodProviders": "pages/FoodProviders.js",
+  "/Home": "pages/Home.js",
+  "/HotelPage": "pages/HotelPage.js",
+  "/Layout": "pages/Layout.js",
+  "/Login": "pages/Login.js",
+  "/RestaurantOwner": "pages/RestaurantOwner.js",
+  "/RestaurantOwnerDashboard": "pages/RestaurantOwnerDashboard.js",
+  "/Signup": "pages/Signup.js",
+  "/Rider": "pages/Rider.js"
+}
